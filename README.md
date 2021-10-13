@@ -1,4 +1,8 @@
+terraform
+Repositório para armazenamento de códigos de Infraestrutura de aprendizado
 
+
+main tf
 
 
 #variable "vpc_id" {
